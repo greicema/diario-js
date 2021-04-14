@@ -1,0 +1,11 @@
+body {
+    margin-top: 50vh;
+}
+
+.btn {
+    background-color: rgb(190, 190, 190);
+}
+
+.btn:hover {
+    background-color: rgb(151, 151, 151);
+}
