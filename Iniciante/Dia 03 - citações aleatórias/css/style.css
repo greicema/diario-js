@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darksalmon;
+    margin: 0;
+}
+
+.quote-container {
+    background-color: lightseagreen;
+    border-radius: 8px;
+    border-color: yellowgreen;
+}
+
+#generate-btn {
+    background-color: black;
+    color: white;
+    border-color: rgb(37, 207, 199);
+    cursor: pointer;
+}
+
+#generate-btn:hover {
+    background-color: rgb(16, 87, 83);
+}
+
+.author {
+    color: #1f3f3b;
+}
