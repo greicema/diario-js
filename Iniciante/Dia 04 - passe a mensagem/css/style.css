@@ -1,0 +1,32 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.message-container {
+    background-color: darksalmon;
+}
+
+.message-content {
+    color: white;
+}
+
+#submitBtn {
+    background-color: rgb(238, 105, 105);
+    color: white;
+}
+
+#submitBtn:hover {
+    background-color: rgb(67, 187, 67);
+}
+
+.feedback {
+    display: none;
+}
+
+.show {
+    display: block;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <title>Passe a mensagem</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row max-height align-items-center">
+            <div class="col-7 mx-auto col-md-7 message-container text-center p-5">
+                <h4>Digite algo abaixo</h4>
+                <form id="message-form">
+                    <input type="text" name="" id="message" class="w-100 my-3 p-2">
+                    <input type="submit" id="submitBtn" class="btn btn-lg">
+                </form>
+                <h5 class="p-2 alert-danger my-3 feedback rounded">Poxa, você não digitou! Tente novamente</h5>
+                <h4 class=" my-3">👇🏿A última mensagem que você enviou é esta👇🏿</h4>
+                <h4 class="message-content alert-success p-2 rounded">A mensagem surgirá aqui</h4>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+    <script src="./js/jquery-3.3.1.min.js"></script>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
