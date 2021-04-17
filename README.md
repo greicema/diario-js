@@ -15,3 +15,10 @@ O que foi utilizado:
 - jQuery
 - Bootstrap
 - :hover
+
+### Dia 02 - [Exibindo HEX ao mudar a cor do background](https://github.com/greicemsj/diario-js/tree/master/Iniciante/Dia%2002%20-%20mudando%20cor%20do%20background%20e%20exibindo%20hex)
+
+![dia02](https://user-images.githubusercontent.com/51206170/114955380-f885be00-9e32-11eb-9c69-f6925d358f05.gif)
+
+O que foi utilizado:
+- O mesmo que no desafio 1, com a diferença nos elementos do array 
