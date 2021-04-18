@@ -1,0 +1,36 @@
+body {
+    background-color: darksalmon;
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.main-container {
+    border: 0.1rem solid rgb(180, 129, 1);
+    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.9);
+    border-radius: 0.2rem;
+    background-color: lightsteelblue;
+}
+
+#counter {
+    font-size: 7rem;
+    color: black;
+}
+
+.prevBtn {
+    background-color: rgb(228, 92, 92);
+}
+
+.nextBtn {
+    background-color: rgb(76, 197, 76);
+}
+
+.prevBtn:hover {
+    background-color: rgb(250, 132, 132);
+}
+
+.nextBtn:hover {
+    background-color: rgb(130, 221, 130);
+}
