@@ -66,3 +66,20 @@ O que foi utilizado:
 - addEventListener
 - forEach
 - box-shadow
+
+
+
+### dia 06 - [Background slider]()
+
+![dia06](https://user-images.githubusercontent.com/51206170/115319151-8b856780-a155-11eb-9e45-62c8f3474437.gif)
+
+O que foi utilizado:
+- jQuery
+- Font Awesome
+- Bootstrap
+- :hover
+- querySelector
+- addEventListener
+- forEach
+- Variáveis CSS
+- transform
