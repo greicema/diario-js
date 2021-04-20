@@ -52,3 +52,17 @@ O que foi utilizado:
 - addEventListener
 - setTimeout
 
+
+
+### Dia 05 - [Contador](https://github.com/greicemsj/diario-js/tree/master/Iniciante/Dia%2005%20-%20contador)
+
+![dia05](https://user-images.githubusercontent.com/51206170/115155087-a7edab00-a054-11eb-9608-4d8615af5d0e.gif)
+
+O que foi utilizado:
+- jQuery
+- Bootstrap
+- :hover
+- querySelector
+- addEventListener
+- forEach
+- box-shadow
